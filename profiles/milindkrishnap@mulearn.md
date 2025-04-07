@@ -21,7 +21,7 @@ currently in first year , so no projects done
 
 #### Networking:
 
-As a first-year student in Electrical and Computer Engineering and a member of the IEDC Executive Committee, I am eager to connect with fellow students, experienced professionals, and mentors through technology events and collaborative endeavors. My goal is to establish robust networks by participating in community activities, exchanging ideas, and fostering innovative projects. By remaining active and setting a positive example, I hope to motivate others to explore, learn, and make meaningful contributions to our expanding tech community.
+As a first-year student in Electronics and Communication Engineering and a member of the IEDC Executive Committee, I am eager to connect with fellow students, experienced professionals, and mentors through technology events and collaborative endeavors. My goal is to establish robust networks by participating in community activities, exchanging ideas, and fostering innovative projects. By remaining active and setting a positive example, I hope to motivate others to explore, learn, and make meaningful contributions to our expanding tech community.
 
 #### Career Plan:
 
